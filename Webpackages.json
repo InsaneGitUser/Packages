@@ -1,0 +1,12 @@
+{
+    "links": [
+        {
+            "name": "WebRetro",
+            "url": "browserretro.vercel.app"
+        },
+        {
+            "name": "Apple2",
+            "url": "appletwo.vercel.app"
+        }
+    ]
+}
