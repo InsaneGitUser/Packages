@@ -2,11 +2,15 @@
     "links": [
         {
             "name": "Apple2",
-            "url": "appletwo.vercel.app"
+            "url": "https://appletwo.vercel.app/"
         },
         {
             "name": "Bitlife",
-            "url": "bitlife-game.vercel.app"
+            "url": "https://bitlife-game.vercel.app/"
+        },
+        {
+            "name": "Sandtris(HTML Remake)",
+            "url": "https://sandtris.vercel.app/"
         }
     ]
 }
