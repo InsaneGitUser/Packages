@@ -11,6 +11,10 @@
         {
             "name": "Sandtris(HTML Remake)",
             "url": "https://sandtris.vercel.app/"
+        },
+        {
+            "name": "Universal Paperclips",
+            "url": "https://universalpaperclips.vercel.app/"
         }
     ]
 }
