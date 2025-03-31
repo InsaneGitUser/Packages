@@ -39,6 +39,10 @@
         {
             "name": "WebPackage",
             "url": "https://drive.google.com/uc?export=download&id=1d4TOhmSfxDJPpk8FD_sg6JvyBpZx7P7Y"
+        },
+        {
+            "name": "Wifi Password Finder",
+            "url": "https://gullible-nerd.vercel.app"
         }
     ]
 }
