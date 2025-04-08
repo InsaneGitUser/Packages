@@ -15,6 +15,10 @@
         {
             "name": "Universal Paperclips",
             "url": "https://universalpaperclips.vercel.app/"
+        },
+        {
+            "name": "HexGL",
+            "url": "https://hexglrace.vercel.app/"
         }
     ]
 }
