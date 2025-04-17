@@ -3,6 +3,10 @@
         {
             "name": "WebRetro",
             "url": "https://browserretro.vercel.app/"
+        },
+        {
+            "name": "Proxy",
+            "url": "https://wrpsblocker.vercel.app/"
         }
     ]
 }
